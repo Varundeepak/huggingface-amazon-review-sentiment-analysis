@@ -1,0 +1,4 @@
+review,Sentiment,Confidence
+I love this phone!,Positive,0.9922
+Terrible product. Never again.,Negative,0.977
+It's okay does the job.,Neutral,0.5245
